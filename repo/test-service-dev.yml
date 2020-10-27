@@ -3,4 +3,4 @@ server:
 spring:
   application:
     name: test-service
-foo: this is test params foo2
+foo: this is test params foo8888
