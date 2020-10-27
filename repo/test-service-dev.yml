@@ -8,4 +8,4 @@ spring:
     port: 5672
     username: admin
     password: admin
-foo: this is test params foo1
+foo: this is test params foo2
