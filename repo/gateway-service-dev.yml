@@ -12,7 +12,9 @@ spring:
         - id: admin-server
           uri: http://localhost:8763
           predicates:
-            - Path=/
+            - Path=/admin-server/
+          filters:
+            - StripPrefix=1  
 
 eureka:
   instance:
