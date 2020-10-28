@@ -1,5 +1,5 @@
 server:
-  port: 9900
+  port: 9987
 spring:
   application:
     name: gateway-service
